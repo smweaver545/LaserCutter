@@ -8,4 +8,4 @@ Tags are placed on the laser cutter so we have a visual queue and know who is us
 
 IMAGE
 
-**NOTE:** *You **MUST** remember to convert the text on each file into a path, otherwise it will not cut properly.*
+**NOTE:** *You MUST remember to convert the text on each file into a path, otherwise it will not cut properly.*
