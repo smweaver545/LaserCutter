@@ -2,7 +2,7 @@ Badge & Tag
 ==========
 Badges are given to all members so they are easily identified. The dxf files will be stored in this directory
 
-IMAGE
+![alt tag](https://raw.github.com/DerbyMakers/LaserCutter/Badge" "&" "Tag/img/Badge.JPG)
 
 Tags are placed on the laser cutter so we have a visual queue and know who is using the laser cutter and who is next in line.
 
