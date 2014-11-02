@@ -1,6 +1,6 @@
 Laser Cutter Stuff
 ==========
-This repository is a central resource for Laser Cutting at Derby Makers. In the future, there will be sample files and documentation.
+This repository is a central resource for Laser Cutting at Derby Makers. This includes sample files and documentation.
 
 ### Directory Structure:
 

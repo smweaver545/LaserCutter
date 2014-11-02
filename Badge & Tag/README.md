@@ -1,6 +1,7 @@
 Badge & Tag
-==========
-Badges are given to all members so they are easily identified. The dxf files will be stored in this directory
+===========
+
+Badges are given to all members so they are easily identified.
 
 ![alt tag](https://raw.githubusercontent.com/DerbyMakers/LaserCutter/master/Badge%20&%20Tag/img/Badge.jpg)
 
